@@ -1,2 +1,2 @@
 # Tijuano
-Esto es una prueba
+BIENVENIDO A MI PAGINA WEB 
