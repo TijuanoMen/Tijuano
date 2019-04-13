@@ -8,7 +8,7 @@
    width:1200;
    float:left;
    }
-   .contenedor1{
+   .contenedorr{
      text-aling:center;
      background:whrite;
      border:2px solid black;
@@ -21,8 +21,8 @@
   <body>
  <div class="contenedor">
   <img src="https://i.pinimg.com/originals/45/85/76/45857680b9afcaf0782e0b5788ec7fd2.jpg" width="1200px" height="600px">
-  <div class"contenedor1">
+  
+  <div class"contenedorrr"></div>
     
-   
  </body>
  </html>
