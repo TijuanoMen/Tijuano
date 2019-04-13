@@ -2,8 +2,7 @@
   <head>
    <title></title>
    <style>
-    
-   .contenedor{
+    .contenedor{
    text-aling:center;
    height:600px;
    width:1200;
@@ -13,7 +12,7 @@
    </head>
   <body>
  <div class="contenedor">
-  <img src="https://i.pinimg.com/originals/45/85/76/45857680b9afcaf0782e0b5788ec7fd2.jpg"width="1200px"height="600px">
- </div>
+  <img src="https://i.pinimg.com/originals/45/85/76/45857680b9afcaf0782e0b5788ec7fd2.jpg" width="1200px" height="600px">
+ 
  </body>
  </html>
