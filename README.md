@@ -7,7 +7,7 @@
    height:600px;
    width:1200;
    float:left;
-   
+   }
    .contenedorr{
      text-aling: center;
      background: whrite;
@@ -23,6 +23,6 @@
   <img src="https://i.pinimg.com/originals/45/85/76/45857680b9afcaf0782e0b5788ec7fd2.jpg" width="1200px" height="600px">
    <div class="contenedorr">
   <img src="https://i.pinimg.com/originals/05/d0/06/05d006704f4eaa03e232c709f45f47e6.jpg" width="90px" height="90px">
-    
+   </div>
  </body>
  </html>
