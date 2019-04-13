@@ -12,7 +12,7 @@
    </style>
    </head>
   <body>
- <div class"contenedor">
+ <div class="contenedor">
   <img src"https://i.pinimg.com/originals/45/85/76/45857680b9afcaf0782e0b5788ec7fd2.jpg"width="1200px"height="600px">
  </div>
  </body>
