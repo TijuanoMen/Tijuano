@@ -7,7 +7,7 @@
    height:600px;
    width:1200;
    float:left;
-   }
+   
    .contenedorr{
      text-aling: center;
      background: whrite;
