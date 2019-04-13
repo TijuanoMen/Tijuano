@@ -14,7 +14,8 @@
      border:2px solid black;
       height:200px;
       width:300;
-      float:left
+      float:left;
+     }
    </style>
    </head>
   <body>
